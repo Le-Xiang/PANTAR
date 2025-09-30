@@ -1,0 +1,4 @@
+../Core/Src/bsp_as5600.c:4:21:wrap_deg	16	static
+../Core/Src/bsp_as5600.c:10:6:BSP_AS5600_Init	24	static
+../Core/Src/bsp_as5600.c:38:6:BSP_AS5600_SetZeroHere	24	static
+../Core/Src/bsp_as5600.c:53:6:BSP_AS5600_Update	40	static

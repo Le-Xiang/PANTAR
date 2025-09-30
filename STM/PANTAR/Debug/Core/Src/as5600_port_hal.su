@@ -1,0 +1,3 @@
+../Core/Src/as5600_port_hal.c:8:4:AS5600_IIC_Read_OneByte	40	static
+../Core/Src/as5600_port_hal.c:18:19:AS5600_ReadAngle12	40	static
+../Core/Src/as5600_port_hal.c:30:19:AS5600_ReadStatus	32	static

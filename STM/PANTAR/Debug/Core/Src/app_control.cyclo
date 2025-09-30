@@ -1,0 +1,5 @@
+../Core/Src/app_control.c:79:6:M2006_SetMode	1
+../Core/Src/app_control.c:80:6:M2006_SetPosRef	1
+../Core/Src/app_control.c:81:7:M2006_GetPosRef	1
+../Core/Src/app_control.c:84:13:KEY_Process	12
+../Core/Src/app_control.c:128:6:app_control_start	1
